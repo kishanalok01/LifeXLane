@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "406171643559",
+    "project_id": "lifexlane-sk8052",
+    "storage_bucket": "lifexlane-sk8052.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406171643559:android:bc1f70661d4c6e42aef582",
+        "android_client_info": {
+          "package_name": "com.example.lifexlane"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406171643559-2oe16893i5km4s3eq7g9bln4sv408kj8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxcuPtuU1SE2M2O8BIumypcxLOZedgo1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "406171643559-2oe16893i5km4s3eq7g9bln4sv408kj8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "406171643559-pbjpg3j5uo77t8jkp4q42q54tm7hg5al.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lifexlane"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
