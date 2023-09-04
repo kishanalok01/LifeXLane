@@ -9,8 +9,6 @@ Welcome to the LifeXlane Emergency Vehicle Communication System, a project desig
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Overview
@@ -41,17 +39,7 @@ Before you begin, make sure you have the following requirements in place:
 - Build and run the app.
 - Follow the on-screen instructions to use the app.
 
-## Contributing
-We welcome contributions from the community. To contribute to this project, follow these steps:
 
-- Fork the repository.
-- Create a new branch for your feature or bug fix: git checkout -b feature/my-new-feature.
-- Make your changes and commit them: git commit -m 'Add some feature'.
-- Push to the branch: git push origin feature/my-new-feature.
-- Create a pull request.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 If you have any questions or encounter issues, please feel free to contact us.
