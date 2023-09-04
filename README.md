@@ -41,7 +41,7 @@ Before you begin, make sure you have the following requirements in place:
 - Build and run the app.
 - Follow the on-screen instructions to use the app.
 
-##Contributing
+## Contributing
 We welcome contributions from the community. To contribute to this project, follow these steps:
 
 - Fork the repository.
@@ -50,8 +50,8 @@ We welcome contributions from the community. To contribute to this project, foll
 - Push to the branch: git push origin feature/my-new-feature.
 - Create a pull request.
 
-##License
+## License
 This project is licensed under the [MIT License](LICENSE).
 
-##Contact
+## Contact
 If you have any questions or encounter issues, please feel free to contact us.
